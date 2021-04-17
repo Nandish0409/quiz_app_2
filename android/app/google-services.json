@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "890555501573",
+    "firebase_url": "https://quiz-app-findmind-default-rtdb.firebaseio.com",
+    "project_id": "quiz-app-findmind",
+    "storage_bucket": "quiz-app-findmind.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890555501573:android:7cddac999b5875055f606c",
+        "android_client_info": {
+          "package_name": "com.example.quiz_app_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890555501573-ifgqso37hjv0cvo3ggbve19v6lnpupls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1aj_N6-j75ez3CQjinZb5cu3vvjxgb5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890555501573-ifgqso37hjv0cvo3ggbve19v6lnpupls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890555501573:android:c557776c9fb33c5a5f606c",
+        "android_client_info": {
+          "package_name": "com.example.quizapp1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890555501573-ifgqso37hjv0cvo3ggbve19v6lnpupls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1aj_N6-j75ez3CQjinZb5cu3vvjxgb5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890555501573-ifgqso37hjv0cvo3ggbve19v6lnpupls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
